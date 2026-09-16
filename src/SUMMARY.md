@@ -1,5 +1,6 @@
 # Summary
 
+- [7](./notes/7.md)
 - [6](./notes/6.md)
 - [5](./notes/5.md)
 - [4](./notes/4.md)
