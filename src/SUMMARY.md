@@ -1,5 +1,6 @@
 # Summary
 
+- [Thursday, Sep 17, 2026](./2026/2026-09/2026-09-17.md)
 - [7](./notes/7.md)
 - [6](./notes/6.md)
 - [5](./notes/5.md)
